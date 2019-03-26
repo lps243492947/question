@@ -1,0 +1,137 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    background-color: #f5fafe;
+}
+.portrait {
+    width: 100%;
+    height: 120px;
+    background-color: #3d9df6;
+    position: relative;
+}
+.weui-cell__hd {
+    width: 54px;
+    height: 54px;
+    background: url(./tx1.jpg) no-repeat;
+    background-size: 100% 100%;
+    border-radius: 50%;
+}
+.weui-cell__bd {
+    margin-left: 8px;
+}
+.vip {
+    font-size: 10px;
+    display: flex;
+}
+.hy {
+    width: 40%;
+    height: 100%;
+    background-color: #fff;
+    border-radius: 10px;
+    position: relative;
+    display: flex;
+}
+.hy img {
+    width: 20px;
+    height: 15px;
+}
+.dl {
+    margin-left: 10px;
+    display: flex;
+}
+.deposit {
+    width: 90%;
+    height: 85px;
+    background-color: #fff;
+    display: flex;
+    position: absolute;
+    top: 80px;
+    left: 50%;
+    transform: translate(-50%);
+    border-radius: 10px;
+}
+.ye {
+    flex:1;
+    text-align: center;
+    margin: 20px;
+}
+.tg {
+    flex:1;
+    text-align: center;
+    margin: 20px;
+}
+.jb {
+    flex:1;
+    text-align: center;
+    margin: 20px;
+}
+.function {
+    width: 90%;
+    height: 170px;
+    font-size: 10px;
+    background-color: #fff;
+    border-radius: 10px;
+    position: absolute;
+    top: 175px;
+    left: 50%;
+    transform: translate(-50%);
+    text-align: center;
+    display: flex;
+}
+.function img {
+    width: 25px;
+    height: 25px;
+}
+.function-one {
+    flex: 1;
+    margin-top: 30px;
+}
+.function-two {
+    flex: 1;
+    margin-top: 30px;
+}
+.function-three {
+    flex: 1;
+    margin-top: 30px;
+}
+.distance {
+    margin-top: 30px;
+}
+.unbounded {
+    width: 90%;
+    height: 103px;
+    font-size: 10px;
+    background-color: #fff;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%);
+    top: 355px;
+    border-radius: 10px;
+    display: flex;
+}
+.join {
+    width: 70px;
+    height: 25px;
+    background-color: #3f97ff;
+    border-radius: 20px;
+    text-align: center;
+}
+.dj {
+    color: #fff;
+    margin-top: 5px;
+}
+.img img{
+    width: 70px;
+    height: 70px;
+    margin: 15px 10px 15px 15px;
+}
+.zi {
+    margin-top: 35px;
+}
+.join {
+    position: absolute;
+    right: 20px;
+    top: 40%;
+}
